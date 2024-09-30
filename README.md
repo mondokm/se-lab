@@ -1,5 +1,7 @@
 # SE Spaceship
 
+[](https://github.com/mondokm/se-lab/actions/workflows/maven.yml/badge.svg)
+
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME-MIT.
 
 The application is simplified and deliberately contains bugs.
